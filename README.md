@@ -10,3 +10,6 @@ Wiki is a Django based project that consists of a number of encyclopedia entries
 * Any encyclopedia entry can be edited.
 * Clicking "Home" on the sidebar will take the user to the page containing the list of all entries.
 
+## Project Inspiration
+
+https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
